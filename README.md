@@ -10,6 +10,6 @@
 
 ```
 dependencies {
-	        implementation 'com.github.HaoShuo-App:haoshuo_oaid:Tag'
+	        implementation 'com.github.HaoShuo-App:haoshuo_tracking:Tag'
 	}
 ```
